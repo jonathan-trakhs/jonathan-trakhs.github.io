@@ -1,3 +1,4 @@
 window.addEventListener('load', (ev)=>{
-	console.log('Working...');
+	var elems = document.querySelectorAll('.sidenav');
+	var instances = M.Sidenav.init(elems, 'edge');
 });
