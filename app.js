@@ -1,3 +1,3 @@
-window.addEventListener('load', ()=>{
+window.addEventListener('load', (ev)=>{
 	console.log('Working...');
 });
