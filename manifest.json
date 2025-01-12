@@ -1,0 +1,19 @@
+{
+    "short_name": "DS",
+    "name": "DS Official",
+    "id": "pwa23v1ds",
+    "icons": [
+        {
+            "src": "/assets/images/logo.png",
+            "sizes": "260x260",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "/index.html",
+    "display": "standalone",
+    "orientation": "portrait",
+    "background_color": "#8a2be2",
+    "theme_color": "#8a2be2",
+    "description": "Aplicacion enfocada a los profesionales de la salud, especificamente areas de odontologia.",
+    "categories": ["health", "oral", "business"]
+}
