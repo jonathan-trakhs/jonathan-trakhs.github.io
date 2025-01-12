@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Faustina:ital,wght@0,300..800;1,300..800&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+body {
+    background-color: #063c80db;
+    color: #0dcaf0;
+}
+
+h1,h2 {
+    font-family: "Faustina", serif;
+    font-style: normal;
+}
+
+.bg-title {
+    background-color: #373b3e6e;
+    border-radius: 30px;
+    padding-top: 2em;
+    padding-bottom: 2em;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
